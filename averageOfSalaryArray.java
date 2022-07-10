@@ -15,4 +15,5 @@ public class averageOfSalaryArray {
         total = total - max - min;      //subtract max and min values since we are ignoring them in calculation
         return total * 1.0d / (salary.length - 2);       //need to make total a double before using it to find the average
     }
+    
 }
