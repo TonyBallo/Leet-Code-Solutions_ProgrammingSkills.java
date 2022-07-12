@@ -1,4 +1,4 @@
-import java.lang.*;
+
 
 public class averageOfSalaryArray {
     public double average(int[] salary) {
